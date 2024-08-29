@@ -2,14 +2,14 @@ package org.example;
 
 public class NewData {
 
-  private String id;
+  private String uuid;
 
-  public String getId() {
-    return id;
+  public String getUuid() {
+    return uuid;
   }
 
-  public void setId(String id) {
-    this.id = id;
+  public void setUuid(String uuid) {
+    this.uuid = uuid;
   }
 
 
